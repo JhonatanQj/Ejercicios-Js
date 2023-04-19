@@ -21,11 +21,9 @@ for (let i = 0; i < 10; i++) {
 }
 
 
-//NÚMEROS DEL 1 al 10
+//NÚMEROS DEL 10 al 1
 
-let i = 12
-
-for (i <= 10; i >= 1; i--) {
+for (let i=10; i >= 1; i--) {
     console.log(i);
     if (i % 2 === 0) {
       console.log(i);
