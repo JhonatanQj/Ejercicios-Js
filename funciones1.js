@@ -43,7 +43,7 @@ estoEsUnaFuncion();
 function saludar(nombre, edad) {
     return `Hola mi nombre es ${nombre} y mi edad es ${edad}`
 }
-console.log(saludar("Amparo", 39));
+console.log(saludar("Jhonatan", 27));
 
 
 //Asignación de valores por defecto a una funciones
