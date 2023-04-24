@@ -41,4 +41,3 @@ milla.setRaza = "Angora turco";
 console.log(milla.saludar());
 console.log(milla.getRaza);
 console.log(milla.raza);
-
