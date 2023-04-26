@@ -50,14 +50,13 @@ console.log(saludar("Jhonatan", 27));
 function carrera(nombre = "desconocido", carrera = "desconocido") {
     return console.log(`Hola, mi nombre es ${nombre} y estudié ${carrera}`)
 }
-carrera("Jhonatan", "Desarrollo de web")
+carrera("Jhonatan", "Desarrollo web")
 
 
 
 //EJERCICIO: SUMA, RESTA, MULTIPLICACIÓN, DIVISIÓN
 let a = 5;
-let b = 0
-
+let b = 3
 function sum(a, b) {
     return a + b
 }
@@ -79,7 +78,7 @@ function div(a, b) {
     return c;
 }
 
-let op = "div";
+let op = "resta";
 
 switch (op) {
     case "suma":

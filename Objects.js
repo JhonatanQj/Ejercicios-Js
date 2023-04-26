@@ -1,7 +1,6 @@
 const persona = {
     nombre: "Jhonatan",
     apellido: "Quevedo",
-    edad: "NA",
     hablar: function () {
         msj = `Hola! Mi nombre es ${this.nombre}`;
         return msj;
