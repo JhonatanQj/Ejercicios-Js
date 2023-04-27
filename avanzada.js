@@ -124,7 +124,7 @@ console.log(calculadora("suma", 5, 4)); // 8
 console.log(calculadora("resta", 5, 3)); // NaN
 console.log(calculadora("mult", 3, 5));
 console.log(calculadora("div", 6, 3)); // "No es posible dividir por cero"
-console.log(calculadora("pot", 2, 5));
+console.log(calculadora("pot", 2, 3));
 console.log(calculadora("rac", 81, 36)); // "No es posible calcular la raíz cuadrada de un número negativo"
 
 
