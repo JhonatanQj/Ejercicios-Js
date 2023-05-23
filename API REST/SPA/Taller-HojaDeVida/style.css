@@ -1,0 +1,35 @@
+.menu{
+    width: 20%; 
+    float: left;
+    background: #d2ffff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    float: center; 
+    background: #ffffff;
+    color:#020000; 
+    height: 5vh;
+    font-size: 50px;
+}
+.menu li{
+    line-height: 100px;
+}
+.wrap-content{
+    width: 80%;
+    float: right; 
+    background: #ffffff;
+    color:#020000; 
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+}
+#content{
+    margin-left: 50px;
+}
+img{
+    width: 40vh;
+    height: 70vh;
+}
